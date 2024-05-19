@@ -80,7 +80,7 @@ class DynamicArray:
     def __str__(self):
         return str(self.array)
 
-# Example usage
+
 if __name__ == "__main__":
     da = DynamicArray()
     da.append(1)
